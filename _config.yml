@@ -24,6 +24,7 @@ navbar-links:
 
   # About Me: "aboutme"
   Home: "index.html"
+  Contact Us: "contact/"
   #Categories:
   #Books: "books/"
 
