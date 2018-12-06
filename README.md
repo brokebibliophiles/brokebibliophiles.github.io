@@ -1,6 +1,6 @@
 # About
 
-### This is the repository for source code of the blog for the Bangalore based meetup group, Broke Bibliophiles Bangalore.
+This is the repository for source code of the blog for the Bangalore based book meetup group, Broke Bibliophiles Bangalore.
 
 - Maintained by [Abhiram R](https://github.com/abhiramr)
 
