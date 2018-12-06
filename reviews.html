@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Blogs and Reviews"
+permalink: "/reviews/"
+---
+
+<ul>
+  {% for review in site.reviews %}
+    <li>
+      <a href="{{ review.url }}">{{ review.title }}</a>
+      - {{ review.headline }}
+    </li>
+  {% endfor %}
+</ul>

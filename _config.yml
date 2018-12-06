@@ -25,6 +25,7 @@ navbar-links:
   # About Me: "aboutme"
   Home: "index.html"
   Contact Us: "contact/"
+  Blogs and Reviews : "reviews/"
   #Categories:
   #Books: "books/"
 
@@ -241,13 +242,13 @@ plugins:
 
 
 collections:
-  - scribbleio
+  - reviews
   - meetups
   
 collections:
-  scribbleio:
+  reviews:
     output: true
-    permalink: /scribbleio/:path/
+    permalink: /reviews/:path/
   meetups:
     output: true
     permalink: /meetups/:path/
