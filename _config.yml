@@ -24,8 +24,8 @@ navbar-links:
 
   # About Me: "aboutme"
   Home: "index.html"
+  Past Meetups : "past-events/"
   Contact Us: "contact/"
-  Blogs and Reviews : "reviews/"
   #Categories:
   #Books: "books/"
 
@@ -74,7 +74,7 @@ social-network-links:
   rss: true
   email: "brokebibliophilesbangalore@gmail.com"
   github: abhiramr
-  twitter: abhi5459
+  twitter: bibliophilesblr
   facebook: groups/brokebangalore
 #  reddit: yourname
 #  google-plus: +username

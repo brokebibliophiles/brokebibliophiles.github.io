@@ -1,88 +1,30 @@
 ---
 layout: page
-title: Broke Bibliophiles Bangalore 
 ---
+<h1 style="color:black;text-align: center"></h1>
+<img src="img/BBB/banner.jpg" />
+<p>
+    You likely found us on one of the social media websites or via word of mouth.</p>
+    <p>Now that we've covered all the bases; We're a book club based out of Bangalore (or Bengaluru if you prefer) co-created and run by <a href="https://twitter.com/abhicantdraw">Abhiram R</a> and Radhika Chauhan in early 2017. We've been active since then conducting meetups on the 4th Sunday of (almost) every month. (<a href="past-events">Cheggit!</a>) If you like books and want to talk about them with a group of like minded folks, check out the Facebook Page for the group where we'll be putting out the event RSVP on the week running up to the meetup every month! We also discuss the latest happenings in the world of books on the Facebook page and of late on Twitter (Links below).
+    For more details/ to join/host the book club, feel free to <b><a href="mailto:brokebibliophilesbangalore@gmail.com">mail us</a> </b> or <b><a href="https://twitter.com/bibliophilesblr">DM us.</a></b></p>
+</p>
 
-<meta property="og:title"
-    content="{% if page.title %}
-      {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}">
+<hr/>
+PS - This site Is going through a bit of a ramp-up. If you have any features you'd like to see on the site, <a href="https://twitter.com/abhicantdraw">let me know.</a> 
 
-<meta property="og:description"
-    content="{% if page.excerpt %}
-        {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-      {% else %}
-        {{ site.description }}
-      {% endif %}">
-
-
-<meta property="og:url"
-    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<!-- -->
+<script type="text/javascript">
+    var sc_project=11299544; 
+    var sc_invisible=1; 
+    var sc_security="4531608f"; 
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost+
+    "statcounter.com/counter/counter.js'></"+"script>");
+    </script>
+    <noscript><div class="statcounter"><a title="Web Analytics
+    Made Easy - StatCounter" href="http://statcounter.com/"
+    target="_blank"><img class="statcounter"
+    src="//c.statcounter.com/11299544/0/4531608f/0/" alt=""></a></div></noscript>
+    <!-- End -->
