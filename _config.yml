@@ -240,6 +240,8 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
+
 
 
 collections:
