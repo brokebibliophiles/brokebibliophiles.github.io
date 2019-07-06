@@ -18,16 +18,24 @@ layout: null
     top: -15px;
     z-index: -1;
 }
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: {{ site.page-text }};
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
   {% endif %}
+
+}
+
+#svg_text {
+  font-size: 26px;
+  font-family: 'Shadows Into Light', cursive;
+
 }
 p {
   line-height: 1.5;
@@ -36,6 +44,9 @@ p {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+}
+h2{
+  color:black !important;
 }
 a {
   color: {{ site.link-col }};
@@ -357,7 +368,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: black;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
