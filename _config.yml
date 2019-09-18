@@ -25,6 +25,7 @@ navbar-links:
   # About Me: "aboutme"
   Home: "index.html"
   Past Meetups : "past-events/"
+  Future Meetups : "future-meetups/"
   Contact Us: "contact/"
   #Categories:
   #Books: "books/"
