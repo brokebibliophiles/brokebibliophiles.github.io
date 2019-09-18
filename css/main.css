@@ -44,22 +44,6 @@ layout: null
 		box-shadow: inset 0px 0px 3px rgba(0,0,0, .8);
 	}
 
-/* Big Button Style */
-
-.big {
-	padding: 0 40px;
-	padding-top: 10px;
-	height: 45px;
-	text-transform: uppercase;
-	font: bold 20px/22px Arial, sans-serif;
-}
-
-.big span {
-	display: block;
-	text-transform: none;
-	font: italic normal 12px/18px Georgia, sans-serif;
-	text-shadow: 1px 1px 1px rgba(255,255,255, .12);
-}
 
 /* Green Color */
 
