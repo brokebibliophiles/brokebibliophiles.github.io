@@ -26,6 +26,7 @@ navbar-links:
   Home: "index.html"
   Past Meetups : "past-events/"
   Future Meetups : "future-meetups/"
+  Events In Bangalore: "lit-events/"
   Contact Us: "contact/"
   #Categories:
   #Books: "books/"
@@ -248,16 +249,21 @@ plugins:
 
 
 collections:
+  - litevent
   - reviews
   - meetups
   
 collections:
+  litevent:
+    output: true
+    permalink: /litevent/:path/
   reviews:
     output: true
     permalink: /reviews/:path/
   meetups:
     output: true
     permalink: /meetups/:path/
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
