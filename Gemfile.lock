@@ -19,7 +19,7 @@ GEM
     execjs (2.7.0)
     faraday (0.17.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.11.1)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (163)
@@ -181,7 +181,7 @@ GEM
     minitest (5.13.0)
     multipart-post (2.1.1)
     net-dns (0.9.0)
-    nokogiri (1.10.5)
+    nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -217,7 +217,6 @@ DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
   jemoji
-  nokogiri (>= 1.10.4)
 
 BUNDLED WITH
    2.0.2
