@@ -20,6 +20,7 @@ GEM
     faraday (0.17.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.25)
+    ffi (1.9.25-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (163)
@@ -183,6 +184,8 @@ GEM
     net-dns (0.9.0)
     nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
+    nokogiri (1.10.5-x64-mingw32)
+      mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
@@ -208,15 +211,19 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2019.3)
+      tzinfo (>= 1.0.0)
     unicode-display_width (1.6.0)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
   jemoji
+  tzinfo-data
 
 BUNDLED WITH
-   2.0.2
+   2.1.2
