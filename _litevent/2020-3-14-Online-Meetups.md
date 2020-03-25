@@ -1,3 +1,9 @@
+---
+title: Virtual Book Meetups in the time Corona
+layout: default
+comments: true
+---
+
 ## How We Ran our First Online Broke Bibliophiles Bangalore Event - 
 
 ### 1: Identify number of possible participants
@@ -30,4 +36,28 @@ It was intended that it would be for 40 minutes i.e. the duration of a free Zoom
 - If your video is off, please comment on chat that you want to talk. 
 - Precheck your internet connection to minimize interruptions
 
-Will update this.
+This post will be updated with more details.
+
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = abhiramr.github.io/litevent/2020-3-14-Online-Meetups;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = litevent/2020-3-14-Online-Meetups; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://abhiramr.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
