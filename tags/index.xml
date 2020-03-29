@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Broke Bibliophiles Bangalore</title>
+    <link>https://brokebibliophilesbangalore.com/tags/</link>
+    <description>Recent content in Tags on Broke Bibliophiles Bangalore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://brokebibliophilesbangalore.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>books</title>
+      <link>https://brokebibliophilesbangalore.com/tags/books/</link>
+      <pubDate>Sun, 26 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brokebibliophilesbangalore.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>https://brokebibliophilesbangalore.com/tags/community/</link>
+      <pubDate>Sun, 26 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brokebibliophilesbangalore.com/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetups</title>
+      <link>https://brokebibliophilesbangalore.com/tags/meetups/</link>
+      <pubDate>Sun, 26 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brokebibliophilesbangalore.com/tags/meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recommendations</title>
+      <link>https://brokebibliophilesbangalore.com/tags/recommendations/</link>
+      <pubDate>Sun, 26 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brokebibliophilesbangalore.com/tags/recommendations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
