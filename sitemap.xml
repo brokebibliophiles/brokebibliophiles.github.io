@@ -255,12 +255,6 @@
   </url>
   
   <url>
-    <loc>https://brokebibliophiles.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://brokebibliophiles.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -274,6 +268,12 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
