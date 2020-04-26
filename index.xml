@@ -6,10 +6,19 @@
     <description>Recent content on Broke Bibliophiles Bangalore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://brokebibliophiles.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Bangalore Reading?</title>
+      <link>https://brokebibliophiles.github.io/listicles/what-is-bangalore-reading/</link>
+      <pubDate>Sun, 26 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brokebibliophiles.github.io/listicles/what-is-bangalore-reading/</guid>
+      <description>Lists of books currently being read by Bangalore&amp;rsquo;s readers - Did they love them? Did they hate them? Did they finish them? :)</description>
+    </item>
     
     <item>
       <title>BBB x World Poetry Day</title>
