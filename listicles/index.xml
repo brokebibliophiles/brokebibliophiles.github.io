@@ -6,10 +6,19 @@
     <description>Recent content in Listicles on Broke Bibliophiles Bangalore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 03:19:08 +0530</lastBuildDate>
     
 	<atom:link href="https://brokebibliophiles.github.io/listicles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Trivia-l Recommendations</title>
+      <link>https://brokebibliophiles.github.io/listicles/trivial-recommendations/</link>
+      <pubDate>Tue, 11 Aug 2020 03:19:08 +0530</pubDate>
+      
+      <guid>https://brokebibliophiles.github.io/listicles/trivial-recommendations/</guid>
+      <description>We hear snippets of information and we read bits and pieces of them. Are there broader documentations with context?</description>
+    </item>
     
     <item>
       <title>What is Bangalore Reading?</title>
