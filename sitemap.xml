@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
-    <lastmod>2020-08-11T03:19:08+05:30</lastmod>
+    <lastmod>2020-09-06T23:59:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/special-events/</loc>
+    <lastmod>2020-09-06T23:59:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/special-events/2020-09-06-writing-prompts-one/</loc>
+    <lastmod>2020-09-06T23:59:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -73,21 +87,14 @@
   </url>
   
   <url>
-    <loc>https://brokebibliophiles.github.io/bbb-special-events/2020-03-23-bbb-world-poetry-day/</loc>
+    <loc>https://brokebibliophiles.github.io/special-events/2020-03-23-bbb-world-poetry-day/</loc>
     <lastmod>2020-03-23T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://brokebibliophiles.github.io/bbb-special-events/</loc>
-    <lastmod>2020-03-23T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/bbb-special-events/2020-03-14-online-meetups/</loc>
+    <loc>https://brokebibliophiles.github.io/special-events/2020-03-14-online-meetups/</loc>
     <lastmod>2020-03-14T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
