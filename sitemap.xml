@@ -4,7 +4,49 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
-    <lastmod>2020-09-22T23:59:08+05:30</lastmod>
+    <lastmod>2020-10-25T15:00:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2020-10-26-bbb-meetup-34/</loc>
+    <lastmod>2020-10-25T15:00:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/books/</loc>
+    <lastmod>2020-10-25T15:00:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/community/</loc>
+    <lastmod>2020-10-25T15:00:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/meetups/</loc>
+    <lastmod>2020-10-25T15:00:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/recommendations/</loc>
+    <lastmod>2020-10-25T15:00:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/</loc>
+    <lastmod>2020-10-25T15:00:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -46,41 +88,6 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/post/2020-07-12-bbb-meetup-31/</loc>
-    <lastmod>2020-07-12T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/books/</loc>
-    <lastmod>2020-07-12T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/community/</loc>
-    <lastmod>2020-07-12T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/meetups/</loc>
-    <lastmod>2020-07-12T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/recommendations/</loc>
-    <lastmod>2020-07-12T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/</loc>
     <lastmod>2020-07-12T15:00:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
