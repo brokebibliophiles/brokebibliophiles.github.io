@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Listicles on Broke Bibliophiles Bangalore</title>
-    <link>brokebibliophiles.github.io/listicles/</link>
+    <link>https://brokebibliophiles.github.io/listicles/</link>
     <description>Recent content in Listicles on Broke Bibliophiles Bangalore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Jan 2021 20:47:08 +0530</lastBuildDate>
     
-	<atom:link href="brokebibliophiles.github.io/listicles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brokebibliophiles.github.io/listicles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Books on Cricket</title>
-      <link>brokebibliophiles.github.io/listicles/all-about-cricket/</link>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-cricket/</link>
       <pubDate>Sun, 31 Jan 2021 20:47:08 +0530</pubDate>
       
-      <guid>brokebibliophiles.github.io/listicles/all-about-cricket/</guid>
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-cricket/</guid>
       <description>Book Recommendations from BBB Readers on Cricket - Indian and International Perspectives</description>
     </item>
     
     <item>
       <title>Books on Indian Politics</title>
-      <link>brokebibliophiles.github.io/listicles/all-about-indian-politics/</link>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-indian-politics/</link>
       <pubDate>Sun, 31 Jan 2021 20:47:08 +0530</pubDate>
       
-      <guid>brokebibliophiles.github.io/listicles/all-about-indian-politics/</guid>
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-indian-politics/</guid>
       <description>Book Recommendations from BBB Readers on Indian Politics, the people involved and the various angles on the events that happened from 1850-present</description>
     </item>
     
     <item>
       <title>Trivia-l Recommendations</title>
-      <link>brokebibliophiles.github.io/listicles/trivial-recommendations/</link>
+      <link>https://brokebibliophiles.github.io/listicles/trivial-recommendations/</link>
       <pubDate>Tue, 11 Aug 2020 03:19:08 +0530</pubDate>
       
-      <guid>brokebibliophiles.github.io/listicles/trivial-recommendations/</guid>
+      <guid>https://brokebibliophiles.github.io/listicles/trivial-recommendations/</guid>
       <description>We hear snippets of information and we read bits and pieces of them. Are there broader documentations with context?</description>
     </item>
     
     <item>
       <title>What is Bangalore Reading?</title>
-      <link>brokebibliophiles.github.io/listicles/what-is-bangalore-reading/</link>
+      <link>https://brokebibliophiles.github.io/listicles/what-is-bangalore-reading/</link>
       <pubDate>Sun, 26 Apr 2020 10:58:08 -0400</pubDate>
       
-      <guid>brokebibliophiles.github.io/listicles/what-is-bangalore-reading/</guid>
+      <guid>https://brokebibliophiles.github.io/listicles/what-is-bangalore-reading/</guid>
       <description>Lists of books currently being read by Bangalore&amp;rsquo;s readers - Did they love them? Did they hate them? Did they finish them? :)</description>
     </item>
     
