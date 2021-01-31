@@ -6,10 +6,19 @@
     <description>Recent content on Broke Bibliophiles Bangalore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2021 20:47:08 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:09:08 +0530</lastBuildDate>
     
 	<atom:link href="https://brokebibliophiles.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books on Food</title>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-food/</link>
+      <pubDate>Mon, 01 Feb 2021 00:09:08 +0530</pubDate>
+      
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-food/</guid>
+      <description>Book Recommendations from BBB Readers on Food</description>
+    </item>
     
     <item>
       <title>Books on Cricket</title>
