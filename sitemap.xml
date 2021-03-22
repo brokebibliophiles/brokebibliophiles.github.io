@@ -4,21 +4,28 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
-    <lastmod>2021-02-01T00:09:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/listicles/all-about-food/</loc>
-    <lastmod>2021-02-01T00:09:08+05:30</lastmod>
+    <lastmod>2021-03-08T20:47:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/listicles/</loc>
-    <lastmod>2021-02-01T00:09:08+05:30</lastmod>
+    <lastmod>2021-03-08T20:47:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/listicles/all-about-women-authors/</loc>
+    <lastmod>2021-03-08T20:47:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/listicles/all-about-food/</loc>
+    <lastmod>2021-02-10T00:09:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
