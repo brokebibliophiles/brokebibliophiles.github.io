@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Listicles on Broke Bibliophiles Bangalore</title>
+    <title>Lists on Broke Bibliophiles Bangalore</title>
     <link>https://brokebibliophiles.github.io/listicles/</link>
-    <description>Recent content in Listicles on Broke Bibliophiles Bangalore</description>
+    <description>Recent content in Lists on Broke Bibliophiles Bangalore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 20:47:08 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 09 Oct 2021 13:47:08 +0530</lastBuildDate>
     
 	<atom:link href="https://brokebibliophiles.github.io/listicles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books on Mental Health</title>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-mental-health-reads/</link>
+      <pubDate>Sat, 09 Oct 2021 13:47:08 +0530</pubDate>
+      
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-mental-health-reads/</guid>
+      <description>Book Recommendations from BBB Readers on Mental Health - In discussion with HeartItOut</description>
+    </item>
+    
+    <item>
+      <title>Monthly Read Discussions</title>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-monthly-reads/</link>
+      <pubDate>Sun, 27 Jun 2021 20:47:08 +0530</pubDate>
+      
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-monthly-reads/</guid>
+      <description>These lists are around books that have been discussed in our monthly meetups.</description>
+    </item>
     
     <item>
       <title>Women Author Recommendations</title>
@@ -45,6 +63,15 @@
       
       <guid>https://brokebibliophiles.github.io/listicles/all-about-indian-politics/</guid>
       <description>Book Recommendations from BBB Readers on Indian Politics, the people involved and the various angles on the events that happened from 1850-present</description>
+    </item>
+    
+    <item>
+      <title>Clubhouse Silent Reads Discussions</title>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-clubhouse/</link>
+      <pubDate>Sun, 31 Jan 2021 20:47:08 +0530</pubDate>
+      
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-clubhouse/</guid>
+      <description>These lists are around books that have been discussed from 7 PM - 9 PM on Saturdays following our Weekly Silent reading sessions on Clubhouse. The Silent Reading sessions happen at 7-7.40 PM everyday.</description>
     </item>
     
     <item>
