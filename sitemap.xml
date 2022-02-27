@@ -4,6 +4,62 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
+    <lastmod>2022-02-27T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2022-02-27-bbb-meetup-46/</loc>
+    <lastmod>2022-02-27T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/books/</loc>
+    <lastmod>2022-02-27T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/community/</loc>
+    <lastmod>2022-02-27T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/meetups/</loc>
+    <lastmod>2022-02-27T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/recommendations/</loc>
+    <lastmod>2022-02-27T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/tags/</loc>
+    <lastmod>2022-02-27T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2021-12-17-bbb-meetup-45/</loc>
+    <lastmod>2021-12-17T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/listicles/all-about-bangalore/</loc>
     <lastmod>2021-10-09T13:47:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,8 +80,15 @@
   </url>
   
   <url>
-    <loc>https://brokebibliophiles.github.io/listicles/all-about-monthly-reads/</loc>
-    <lastmod>2021-06-27T20:47:08+05:30</lastmod>
+    <loc>https://brokebibliophiles.github.io/post/2021-05-30-bbb-meetup-40/</loc>
+    <lastmod>2021-06-27T15:00:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2021-06-27-bbb-meetup-41/</loc>
+    <lastmod>2021-06-27T15:00:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -81,41 +144,6 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/post/2021-01-31-bbb-meetup-37/</loc>
-    <lastmod>2021-01-31T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/books/</loc>
-    <lastmod>2021-01-31T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/community/</loc>
-    <lastmod>2021-01-31T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/meetups/</loc>
-    <lastmod>2021-01-31T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/recommendations/</loc>
-    <lastmod>2021-01-31T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/tags/</loc>
     <lastmod>2021-01-31T15:00:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
