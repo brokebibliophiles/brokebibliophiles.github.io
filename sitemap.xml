@@ -4,34 +4,62 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
-    <lastmod>2022-03-27T15:07:30+05:30</lastmod>
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://brokebibliophiles.github.io/post/2022-03-27-bbb-meetup-47/</loc>
-    <lastmod>2022-03-27T15:07:30+05:30</lastmod>
+    <loc>https://brokebibliophiles.github.io/post/2022-06-26-bbb-meetup-49/</loc>
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/meetups/</loc>
-    <lastmod>2022-03-27T15:07:30+05:30</lastmod>
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/recommendations/</loc>
-    <lastmod>2022-03-27T15:07:30+05:30</lastmod>
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/</loc>
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2022-05-22-bbb-meetup-48/</loc>
+    <lastmod>2022-05-22T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/listicles/all-about-bookclubs/</loc>
+    <lastmod>2022-04-06T13:47:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/listicles/</loc>
+    <lastmod>2022-04-06T13:47:08+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2022-03-27-bbb-meetup-47/</loc>
     <lastmod>2022-03-27T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -67,13 +95,6 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/listicles/all-about-mental-health-reads/</loc>
-    <lastmod>2021-10-09T13:47:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/listicles/</loc>
     <lastmod>2021-10-09T13:47:08+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
