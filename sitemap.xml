@@ -4,34 +4,52 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+=======
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
+>>>>>>> 3c777a0a490970f391e9d43455e81a91946e1c90
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://brokebibliophiles.github.io/post/2022-07-31-bbb-meetup-50/</loc>
     <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+=======
+    <loc>https://brokebibliophiles.github.io/post/2022-06-26-bbb-meetup-49/</loc>
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
+>>>>>>> 3c777a0a490970f391e9d43455e81a91946e1c90
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/meetups/</loc>
+<<<<<<< HEAD
     <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+=======
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
+>>>>>>> 3c777a0a490970f391e9d43455e81a91946e1c90
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/recommendations/</loc>
+<<<<<<< HEAD
     <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+=======
+    <lastmod>2022-06-26T15:07:30+05:30</lastmod>
+>>>>>>> 3c777a0a490970f391e9d43455e81a91946e1c90
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/</loc>
+<<<<<<< HEAD
     <lastmod>2022-07-31T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -39,6 +57,8 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/post/2022-06-26-bbb-meetup-49/</loc>
+=======
+>>>>>>> 3c777a0a490970f391e9d43455e81a91946e1c90
     <lastmod>2022-06-26T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
