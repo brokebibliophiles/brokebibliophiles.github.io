@@ -4,34 +4,55 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
-    <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+    <lastmod>2022-10-30T15:15:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://brokebibliophiles.github.io/post/2022-07-31-bbb-meetup-50/</loc>
-    <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+    <loc>https://brokebibliophiles.github.io/post/2022-10-30-bbb-meetup-53/</loc>
+    <lastmod>2022-10-30T15:15:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/meetups/</loc>
-    <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+    <lastmod>2022-10-30T15:15:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/recommendations/</loc>
-    <lastmod>2022-07-31T15:07:30+05:30</lastmod>
+    <lastmod>2022-10-30T15:15:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://brokebibliophiles.github.io/tags/</loc>
+    <lastmod>2022-10-30T15:15:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2022-09-25-bbb-meetup-52/</loc>
+    <lastmod>2022-09-25T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2022-08-31-bbb-meetup-51/</loc>
+    <lastmod>2022-08-28T15:07:30+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/post/2022-07-31-bbb-meetup-50/</loc>
     <lastmod>2022-07-31T15:07:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
