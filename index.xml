@@ -6,10 +6,19 @@
     <description>Recent content on Broke Bibliophiles Bangalore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2022 15:15:30 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2022 13:47:08 +0530</lastBuildDate>
     
 	<atom:link href="https://brokebibliophiles.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bookstores in Bangalore</title>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-bookstores/</link>
+      <pubDate>Sat, 12 Nov 2022 13:47:08 +0530</pubDate>
+      
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-bookstores/</guid>
+      <description>All about the different bookstores in Bangalore</description>
+    </item>
     
     <item>
       <title>BBB Meetup-53</title>
