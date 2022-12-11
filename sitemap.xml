@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://brokebibliophiles.github.io/</loc>
-    <lastmod>2022-11-27T15:15:30+05:30</lastmod>
+    <lastmod>2022-12-08T18:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/special-events/2022-12-08-bbb-secret-santa-2022-kickoff/</loc>
+    <lastmod>2022-12-08T18:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://brokebibliophiles.github.io/special-events/</loc>
+    <lastmod>2022-12-08T18:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -166,13 +180,6 @@
   <url>
     <loc>https://brokebibliophiles.github.io/post/2021-06-27-bbb-meetup-41/</loc>
     <lastmod>2021-06-27T15:00:08+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://brokebibliophiles.github.io/special-events/</loc>
-    <lastmod>2021-06-06T18:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
